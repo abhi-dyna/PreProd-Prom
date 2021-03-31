@@ -1,0 +1,1 @@
+Folder containing images for dynatrace integration with prometheus on k8s

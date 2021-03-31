@@ -1,0 +1,1 @@
+Images of commands executed on ec2 instance.

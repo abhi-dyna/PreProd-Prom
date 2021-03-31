@@ -1,0 +1,1 @@
+Folder cotaining images from the sample-application.
